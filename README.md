@@ -3,7 +3,7 @@ TB Data mining Kelompok 8
 
 Anggota Kelompok :
 
-1. NAMA AKUN  : cahyaticici.
+1. NAMA AKUN  : cicahyati.
    NAMA       : Cahyati.
    NIM        : 3311901066.
 
